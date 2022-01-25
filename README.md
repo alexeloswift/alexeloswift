@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alexeloswift
-- 👀 I’m interested in swift
-- 🌱 I’m currently learning swift
-- 📫 How to reach me: alexelo.swift@gmail.com
+- 👋 Hi, I’m Alex
+- 👀 I’m interested in anything swift
+- 🌱 I’m currently learning different frameworks
+- 📫 How to reach me: alexelo.swift@gmail.com or DM me on twitter!
 
 <!---
 alexeloswift/alexeloswift is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
