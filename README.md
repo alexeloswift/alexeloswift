@@ -30,9 +30,11 @@ I am a passionate iOS developer based in North Carolina, USA :us:
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Swift" alt="Swift" width="43" height="43"/>&nbsp;
 <img src="https://img.icons8.com/fluency/344/swiftui.png" width="50" height="50">
 
----
+<br />
+<br />
 
 [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexeloswift&count_private=true)](https://github.com/alexeloswift/github-readme-stats)
+
 <div id="header" align="right">
   :trollface:
 </div>
