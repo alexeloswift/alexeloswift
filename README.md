@@ -21,11 +21,16 @@ I am a passionate iOS developer based in North Carolina, USA :us:
 </div>
 
 ## Languages & Tools :
-<img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Swift" alt="Swift" width="46" height="46"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Swift" alt="Swift" width="43" height="43"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Swift" alt="Swift" width="43" height="43"/>&nbsp;
-<img src="https://img.icons8.com/fluency/344/swiftui.png" width="50" height="50">
+<a href ="https://developer.apple.com/documentation/xcode/">
+<img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="46" height="46"/>&nbsp;<a/>
+<a href ="https://www.swift.org/documentation/">
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;<a/>
+<a href ="https://git-scm.com/docs/git">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="43" height="43"/>&nbsp;<a/>
+<a href ="https://docs.github.com/en">
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="43" height="43"/>&nbsp;<a/>
+<a href ="https://developer.apple.com/documentation/swiftui/">
+<img src="https://img.icons8.com/fluency/344/swiftui.png" title="SwiftUI" alt="SwiftUI" width="50" height="50"><a/>
 
 <br />
 <br />
