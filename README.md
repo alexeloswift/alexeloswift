@@ -34,6 +34,6 @@ I am a passionate iOS developer based in North Carolina, USA :us:
 
 [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexeloswift&count_private=true)](https://github.com/alexeloswift/github-readme-stats)
 
-<div id="header" align="right">
+<div align="right">
   :trollface:
 </div>
