@@ -13,7 +13,6 @@ I am a passionate iOS developer based in North Carolina, USA :us:
 
 ## Social :
 <div id="badges">
-  <alexelo.swift@gmail.com>
   <img src="https://img.shields.io/badge/alexelo.swift@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   <a href="https://www.linkedin.com/in/alexeloswift">
   <img src="https://img.shields.io/badge/alexeloswift-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
