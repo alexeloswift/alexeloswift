@@ -36,7 +36,7 @@ I am a passionate iOS developer based in North Carolina, USA :us:
 <br />
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeloswift&count_private=false&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeloswift&count_private=true&show_icons=true&theme=dark)
 
   <p align="left">
   <img src="https://visitor-badge.glitch.me/badge?page_id=alexeloswift.alexeloswift" alt="visitor badge"/>
