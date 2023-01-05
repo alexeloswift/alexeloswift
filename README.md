@@ -38,6 +38,10 @@ I am a passionate iOS developer based in North Carolina, USA :us:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeloswift&count_private=true&show_icons=true&theme=dark)
 
+  <p align="left">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=benlmyers.benlmyers" alt="visitor badge"/>
+</p>
+  
 <div align="right">
   :trollface:
 </div>
