@@ -36,9 +36,7 @@ I am a passionate iOS developer based in North Carolina, USA :us:
 <br />
 
 
-  <p align="left">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=alexeloswift.alexeloswift" alt="visitor badge"/>
-</p>
+
   
 <div align="right">
   :trollface:
