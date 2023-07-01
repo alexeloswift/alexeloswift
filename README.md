@@ -3,7 +3,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a passionate iOS developer based in North Carolina, USA :us:
+I am a passionate iOS developer based in North Carolina, USA 
 - autodidact
 - creator of Shopperscalc (find it on the App Store)
 - currently pursuing my BS in Software Engineering from WGU :owl: 
