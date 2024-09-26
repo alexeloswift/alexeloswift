@@ -3,10 +3,9 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a passionate iOS developer based in North Carolina, USA 
-- creator of Shopperscalc (find it on the App Store)
+I am a passionate Software Engineer based in North Carolina, USA 
 - currently pursuing my BS in Software Engineering from WGU :owl: 
-- expected graduation: early fall 2024
+- expected graduation: early fall 2025
 - career switcher
 - in my free time I like to learn new things :nerd_face:, work on my side projects :man_technologist:, or spend time with my wife & kids :family_man_woman_girl_boy:
 
